@@ -1,7 +1,7 @@
 import "./loging-page.css"
 
 const Loging = () => {
-    // const [userImage, setUserImage] = useState(false);
+    // const [userImage, setUserImage] = useState();
     // const [paswordImage, setPasswordImage] = userState(false);
     
 
