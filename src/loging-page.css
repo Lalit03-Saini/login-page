@@ -24,6 +24,7 @@
     background-image: url("./Image/𝑺𝒐𝒇𝒊𝒔𝒕𝒊𝒌𝒂𝒅𝒂\ on\ Twitter.jfif");
     background-repeat: no-repeat;
     background-size: cover;
+    object-fit: cover;
     width: 100%;
     height: 100%;
 }
@@ -37,8 +38,8 @@
 }
 .change-image{
     text-align: center;
-    background-image: url("./Image/Cat\ Watching\ You\ GIF\ -\ Cat\ Watching\ You\ Cartoon\ -\ Discover\ &\ Share\ GIFs.gif");
     background-repeat: no-repeat;
+    display: block;
     background-size: cover;
     box-shadow: yellow 4px 3px 3px -1px;
     border-radius: 5px;
@@ -125,6 +126,7 @@
         background-image: url("./Image/Redmi\ K20\ Pro\ Wallpaper\ \(YTECHB\ Exclusive\).jfif");
         background-repeat: no-repeat;
         background-size: cover;
+        object-fit: cover;
         width: 100%;
         height: 100%;
     }
@@ -138,7 +140,7 @@
     }
     .change-image{
         text-align: center;
-        background-image: url("./Image/Cat\ Watching\ You\ GIF\ -\ Cat\ Watching\ You\ Cartoon\ -\ Discover\ &\ Share\ GIFs.gif");
+        display: block;
         background-repeat: no-repeat;
         background-size: cover;
         box-shadow: yellow 4px 3px 3px -1px;
